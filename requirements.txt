@@ -1,0 +1,6 @@
+# Numerical operations and plotting
+numpy
+matplotlib
+
+# Python kernel for notebooks in VS Code
+ipykernel
